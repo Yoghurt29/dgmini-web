@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "dgmini-web",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "988b0822-6967-48a1-9c56-4f0e068b351b",
+			"database_name": "xinlutong_db_prod"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
